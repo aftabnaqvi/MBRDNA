@@ -15,7 +15,7 @@ you need to have "sudo" access to install the project. Location is /opt/
 make install_target
 
 #Want to run?
-executable LinuxCpuInfo is already provided
+executable LinuxCpuInfo is already provided.
 run “sh runLinuxCpuInfo.sh”
 
 Project design is scable, Model class is inherited from QAbstractModel. 
